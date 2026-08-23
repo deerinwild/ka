@@ -1,1 +1,60 @@
-
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-23T11:23:27.530Z",
+  "tasks": [
+    {
+      "id": "001",
+      "type": "comment",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5334061057837057&type=2&from=40000",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "",
+      "profileScope": "none"
+    },
+    {
+      "id": "002",
+      "type": "comment",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5334332298498760&type=2&from=40000",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "",
+      "profileScope": "none"
+    },
+    {
+      "id": "003",
+      "type": "comment",
+      "url": "https://service.account.weibo.com/reportspamobile?ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_0_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148+WeiboIntliOS_iPhone_7174&rid=5333749774686819&type=1&luicode=10000001",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "",
+      "profileScope": "none"
+    },
+    {
+      "id": "004",
+      "type": "comment",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5332978839322979&type=1&from=40000&rid_en=RdPVFD7kD&anno_showed_lv=1",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我真恶臭",
+      "profileScope": "none"
+    },
+    {
+      "id": "005",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5333771840919548&type=1&from=40000&rid_en=ReayI3Rdq&anno_showed_lv=1",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我疯子 骂我矮子侮辱我的身高歧视矮子",
+      "profileScope": "none"
+    },
+    {
+      "id": "006",
+      "type": "profile",
+      "url": "https://service.account.weibo.com/reportspam?rid=3318872917&type=3&from=1FFFF96039",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "",
+      "profileScope": "content"
+    }
+  ]
+}
