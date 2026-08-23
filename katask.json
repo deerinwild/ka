@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T11:23:27.530Z",
+  "taskDate": "2026-08-23",
+  "generatedAt": "2026-08-23T13:23:30.360Z",
   "tasks": [
     {
       "id": "001",
@@ -22,17 +23,17 @@
     },
     {
       "id": "003",
-      "type": "comment",
-      "url": "https://service.account.weibo.com/reportspamobile?ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_0_1+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148+WeiboIntliOS_iPhone_7174&rid=5333749774686819&type=1&luicode=10000001",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspam?rid=Re9Z7jFfR&type=1&from=1FFFF96039",
       "primaryReason": "饭圈投诉专区",
       "secondaryReason": "拉踩引战",
-      "description": "",
+      "description": "拉踩引战",
       "profileScope": "none"
     },
     {
       "id": "004",
-      "type": "comment",
-      "url": "https://service.account.weibo.com/reportspamobile?rid=5332978839322979&type=1&from=40000&rid_en=RdPVFD7kD&anno_showed_lv=1",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5332978839322979&type=1&from=40000",
       "primaryReason": "网络暴力",
       "secondaryReason": "网暴我",
       "description": "骂我真恶臭",
@@ -53,7 +54,7 @@
       "url": "https://service.account.weibo.com/reportspam?rid=3318872917&type=3&from=1FFFF96039",
       "primaryReason": "饭圈投诉专区",
       "secondaryReason": "拉踩引战",
-      "description": "",
+      "description": "拉踩引战",
       "profileScope": "content"
     }
   ]
