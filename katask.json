@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "taskDate": "2026-09-01",
+  "generatedAt": "2026-08-31T17:06:03.881Z",
+  "tasks": [
+    {
+      "id": "001",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOioL",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "002",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOio2",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "003",
+      "type": "comment",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5335898837487332&type=2&from=40000",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "004",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOioz",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "005",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOiSg",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "006",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOiSe",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "007",
+      "type": "auto",
+      "url": "https://t.cn/AX0wOiow",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "008",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspamobile?ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148+WeiboIntliOS_iPhone_7191&rid=5337911656448946&type=1&luicode=10000001",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "009",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspamobile?ua=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+18_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Mobile%2F15E148+WeiboIntliOS_iPhone_7191&rid=5337931491314976&type=1&luicode=10000001",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意P图",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "010",
+      "type": "auto",
+      "url": "https://t.cn/AX0zBXl8",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "011",
+      "type": "auto",
+      "url": "https://t.cn/AX0hiFT2",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我瞎 骂我丑",
+      "profileScope": "none"
+    },
+    {
+      "id": "012",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfMt",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我渣 嘲讽我没用",
+      "profileScope": "none"
+    },
+    {
+      "id": "013",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfMV",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我渣 嘲讽我没用",
+      "profileScope": "none"
+    },
+    {
+      "id": "014",
+      "type": "auto",
+      "url": "https://t.cn/AX0hMgxC",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我狗 用“坛”谐音侮辱我姓氏檀",
+      "profileScope": "none"
+    },
+    {
+      "id": "015",
+      "type": "auto",
+      "url": "https://t.cn/AX0zBXlR",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子歧视我身高，造谣穿高跟鞋侮辱我性别",
+      "profileScope": "none"
+    },
+    {
+      "id": "016",
+      "type": "auto",
+      "url": "https://t.cn/AX0Z5fEZ",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "咒骂我是矮子 制造身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "017",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfIe",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用谐音“痰”侮辱我的姓氏檀，骂我粘痰，造谣我吐痰。",
+      "profileScope": "none"
+    },
+    {
+      "id": "018",
+      "type": "auto",
+      "url": "https://t.cn/AX0Z5fEO",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用谐音“痰”侮辱我的姓氏檀，骂我粘痰",
+      "profileScope": "none"
+    },
+    {
+      "id": "019",
+      "type": "auto",
+      "url": "https://t.cn/AX0PzxYz",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用谐音“痰”侮辱我的姓氏檀，骂我粘痰",
+      "profileScope": "none"
+    },
+    {
+      "id": "020",
+      "type": "auto",
+      "url": "https://t.cn/AX0w3JbH",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我不要脸，给我起侮辱性外号“檀矮子”，歧视我的身高",
+      "profileScope": "none"
+    },
+    {
+      "id": "021",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujAn",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子，造谣我抢劫",
+      "profileScope": "none"
+    },
+    {
+      "id": "022",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujAR",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我又矮又丑，造谣我浪费粮食，骂我是装逼小混混，侮辱我",
+      "profileScope": "none"
+    },
+    {
+      "id": "023",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujAm",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是又卑又亢的矬子，内涵我矮，歧视我的身高",
+      "profileScope": "none"
+    },
+    {
+      "id": "024",
+      "type": "auto",
+      "url": "https://t.cn/AX0w3JbY",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子，歧视我的身高，制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "025",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujAE",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子，歧视我的身高，制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "026",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujAQ",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子，歧视我的身高，制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "027",
+      "type": "auto",
+      "url": "https://t.cn/AX0wujA8",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是矮子，歧视我的身高，制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "028",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfIu",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我让人难受",
+      "profileScope": "none"
+    },
+    {
+      "id": "029",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfIr",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我演技差",
+      "profileScope": "none"
+    },
+    {
+      "id": "030",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfIB",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我脸皮厚 骂我鞋底厚嘲讽我矮",
+      "profileScope": "none"
+    },
+    {
+      "id": "031",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfMw",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我不要脸 骂我是屁",
+      "profileScope": "none"
+    },
+    {
+      "id": "032",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWem",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我晦气",
+      "profileScope": "none"
+    },
+    {
+      "id": "033",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWek",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是街溜子，造谣我是小混混",
+      "profileScope": "none"
+    },
+    {
+      "id": "034",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWeE",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是脑残，骂我离谱",
+      "profileScope": "none"
+    },
+    {
+      "id": "035",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWen",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我演技差",
+      "profileScope": "none"
+    },
+    {
+      "id": "036",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWe8",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我自卑",
+      "profileScope": "none"
+    },
+    {
+      "id": "037",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWed",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我自卑",
+      "profileScope": "none"
+    },
+    {
+      "id": "038",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWeu",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我差，嘲讽我不行",
+      "profileScope": "none"
+    },
+    {
+      "id": "039",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWe1",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我素质低下，骂我装",
+      "profileScope": "none"
+    },
+    {
+      "id": "040",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWD2",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "扬言要气死我，造谣我糟蹋粮食",
+      "profileScope": "none"
+    },
+    {
+      "id": "041",
+      "type": "auto",
+      "url": "https://t.cn/AX0wEWej",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是挂件",
+      "profileScope": "none"
+    },
+    {
+      "id": "042",
+      "type": "auto",
+      "url": "https://t.cn/AX0wHbI9",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是古偶咖造谣我演技蹩脚",
+      "profileScope": "none"
+    },
+    {
+      "id": "043",
+      "type": "weibo",
+      "url": "https://service.account.weibo.com/reportspamobile?rid=5337728661327300&type=1&from=40000",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮子，歧视矮子，制造身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "044",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfMc",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮子，歧视矮子，制造身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "045",
+      "type": "auto",
+      "url": "https://t.cn/AX0hlBOz",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮   制造我身高焦虑骂我脸皮厚",
+      "profileScope": "none"
+    }
+  ]
+}
