@@ -1,15 +1,357 @@
 {
   "schemaVersion": 1,
-  "taskDate": "2026-08-30",
-  "generatedAt": "2026-08-31T13:31:33.447Z",
+  "taskDate": "2026-09-02",
+  "generatedAt": "2026-09-02T13:28:03.235Z",
   "tasks": [
     {
       "id": "001",
       "type": "auto",
-      "url": "https://t.cn/AX0vwQKk",
-      "primaryReason": "不良价值导向",
-      "secondaryReason": "不良价值导向",
+      "url": "https://t.cn/AX04WZAa",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
       "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "002",
+      "type": "auto",
+      "url": "https://t.cn/AX0b5dqr",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "003",
+      "type": "auto",
+      "url": "https://t.cn/AX0b5dqD",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "004",
+      "type": "auto",
+      "url": "https://t.cn/AX07AfI1",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "005",
+      "type": "auto",
+      "url": "https://t.cn/AX0hMgxo",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "006",
+      "type": "auto",
+      "url": "https://t.cn/AX0hfJbc",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "007",
+      "type": "auto",
+      "url": "https://t.cn/AX0hfJbL",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "008",
+      "type": "auto",
+      "url": "https://t.cn/AX0hfJbt",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "饭圈不友善",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "009",
+      "type": "auto",
+      "url": "https://t.cn/AX0hiFTL",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "010",
+      "type": "auto",
+      "url": "https://t.cn/AX0ZZoXN",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "011",
+      "type": "auto",
+      "url": "https://t.cn/AX0ZZoXS",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "012",
+      "type": "auto",
+      "url": "https://t.cn/AX04FTzQ",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "013",
+      "type": "auto",
+      "url": "https://t.cn/AXpMSw30",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "014",
+      "type": "auto",
+      "url": "https://t.cn/AXpMSwm0",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "015",
+      "type": "auto",
+      "url": "https://t.cn/AXpMSwnW",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "016",
+      "type": "auto",
+      "url": "https://t.cn/AXpMSwnJ",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "017",
+      "type": "auto",
+      "url": "https://t.cn/AX0q2MXT",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "018",
+      "type": "auto",
+      "url": "https://t.cn/AX0q2Hf7",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "019",
+      "type": "auto",
+      "url": "https://t.cn/AX0qLphl",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "020",
+      "type": "auto",
+      "url": "https://t.cn/AX0GjNqo",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "021",
+      "type": "auto",
+      "url": "https://t.cn/AXpk4dPM",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "022",
+      "type": "auto",
+      "url": "https://t.cn/AXpHCbGn",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "023",
+      "type": "auto",
+      "url": "https://t.cn/AX0hM16e",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "024",
+      "type": "auto",
+      "url": "https://t.cn/AX0hUuQz",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "025",
+      "type": "auto",
+      "url": "https://t.cn/AX04FTzQ",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "026",
+      "type": "auto",
+      "url": "https://t.cn/AX0GjNqX",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "027",
+      "type": "auto",
+      "url": "https://t.cn/AX0by8bE",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "028",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fg9",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我弱智的像机器人",
+      "profileScope": "none"
+    },
+    {
+      "id": "029",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fgQ",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我是路边狗，骂我狗叫，侮辱我的人格",
+      "profileScope": "none"
+    },
+    {
+      "id": "030",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fg6",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我油，骂我难评",
+      "profileScope": "none"
+    },
+    {
+      "id": "031",
+      "type": "auto",
+      "url": "https://t.cn/AX0b5dqg",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "辱骂我的演技烂。骂我不配当警察。辱骂我是地痞流氓。",
+      "profileScope": "none"
+    },
+    {
+      "id": "032",
+      "type": "auto",
+      "url": "https://t.cn/AX0b5dqd",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "辱骂我是狗。造谣我是小偷",
+      "profileScope": "none"
+    },
+    {
+      "id": "033",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fgo",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用“摊”谐音侮辱我的姓氏檀，骂我是边角料，骂我是屁，侮辱我的人格",
+      "profileScope": "none"
+    },
+    {
+      "id": "034",
+      "type": "auto",
+      "url": "https://t.cn/AX0GjNqa",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用“摊”侮辱我的姓氏“檀”",
+      "profileScope": "none"
+    },
+    {
+      "id": "035",
+      "type": "auto",
+      "url": "https://t.cn/AX0zXoud",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用“瘫货”嘲暗讽诅咒我瘫痪 扬言让我用裹脚布裹小脑",
+      "profileScope": "none"
+    },
+    {
+      "id": "036",
+      "type": "auto",
+      "url": "https://t.cn/AX0GjNqK",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "用“瘫货”嘲暗讽诅咒我瘫痪",
+      "profileScope": "none"
+    },
+    {
+      "id": "037",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fgi",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮 制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "038",
+      "type": "auto",
+      "url": "https://t.cn/AX0U1fgO",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮 制造我身高焦虑",
+      "profileScope": "none"
+    },
+    {
+      "id": "039",
+      "type": "auto",
+      "url": "https://t.cn/AX0GjNqS",
+      "primaryReason": "网络暴力",
+      "secondaryReason": "网暴我",
+      "description": "骂我矮 制造我身高焦虑",
       "profileScope": "none"
     }
   ]
