@@ -1,32 +1,95 @@
 {
   "schemaVersion": 1,
-  "taskDate": "2026-08-30",
-  "generatedAt": "2026-08-31T13:31:33.447Z",
+  "taskDate": "2026-09-02",
+  "generatedAt": "2026-09-03T11:18:41.531Z",
   "tasks": [
     {
       "id": "001",
       "type": "auto",
-      "url": "https://t.cn/AX0vwQKk",
-      "primaryReason": "不良价值导向",
-      "secondaryReason": "不良价值导向",
+      "url": "https://t.cn/AX05Xon8",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "恶意评价",
       "description": "none",
       "profileScope": "none"
     },
     {
       "id": "002",
       "type": "auto",
-      "url": "https://t.cn/AX0vyy38",
-      "primaryReason": "垃圾行为或内容",
-      "secondaryReason": "虚假互动",
+      "url": "https://t.cn/AX0IfpSx",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
       "description": "none",
       "profileScope": "none"
     },
     {
       "id": "003",
       "type": "auto",
-      "url": "https://t.cn/AX0vG8V1",
-      "primaryReason": "垃圾行为或内容",
-      "secondaryReason": "违规导流",
+      "url": "https://t.cn/AX0IG2ki",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "004",
+      "type": "auto",
+      "url": "https://t.cn/AX0IZBf6",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "005",
+      "type": "auto",
+      "url": "https://t.cn/AX0fYgen",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "006",
+      "type": "auto",
+      "url": "https://t.cn/AX0fLig7",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "007",
+      "type": "auto",
+      "url": "https://t.cn/AX0cQQYM",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "008",
+      "type": "auto",
+      "url": "https://t.cn/AX0cQg4a",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "造谣爆料",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "009",
+      "type": "auto",
+      "url": "https://t.cn/AX05XcLR",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
+      "description": "none",
+      "profileScope": "none"
+    },
+    {
+      "id": "010",
+      "type": "auto",
+      "url": "https://t.cn/AX0q9Boq",
+      "primaryReason": "饭圈投诉专区",
+      "secondaryReason": "拉踩引战",
       "description": "none",
       "profileScope": "none"
     }
